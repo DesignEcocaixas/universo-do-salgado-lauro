@@ -105,7 +105,7 @@ h2 {
 
 /*ESTILIZAÇÃO DOS BOTÕES*/
 .link-container {
-    background-color: #ec0f0f;
+    background-color: #Ffa500;
     background-image: radial-gradient(#b10000 0.5px, transparent 0.5px);
     background-size: 5px 5px;
     border-radius: 40px;
@@ -495,4 +495,5 @@ h2 {
 
 .shake {
     animation: shake 0.4s;
+
 }
